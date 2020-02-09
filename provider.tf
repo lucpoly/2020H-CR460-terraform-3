@@ -1,6 +1,6 @@
 provider "google" {
-  project = "zonedetest"
+  project = "zonedetest-267202"
   credentials = "account.json"
-  region  = "northamerica-northeast1"
-  zone    = "northamerica-northeast1-a"
+  region  = "us-central1"
+  zone    = "us-central1-c"
 }
